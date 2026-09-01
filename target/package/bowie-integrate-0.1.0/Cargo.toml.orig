@@ -8,7 +8,6 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Chenoveko/bowie-integrate"
 documentation = "https://docs.rs/bowie-integrate"
-description = "Numerical integration methods implemented in Rust."
 keywords = ["integration", "numerical", "mathematics", "science"]
 categories = ["algorithms", "science"]
 include = [
